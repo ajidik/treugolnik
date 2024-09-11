@@ -1,0 +1,2 @@
+# treugolnik
+treugolniki
